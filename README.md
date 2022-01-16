@@ -2,9 +2,7 @@
 ## Welcome! 👋
 
 # SuperHeroAPI
-Project super hero CRUD
 
-Thanks for checking out this code.
 
 ## Built with
     * C#
@@ -19,4 +17,4 @@ Thanks for checking out this code.
 
     Martinsito Brito Diaz
 
-**Bye** 🚀
+**Thanks For Checking Out This Code Bye** 🚀
