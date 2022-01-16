@@ -6,8 +6,8 @@
 
 ## Built with
     * C#
-    * Entity Framework Core
     * DotNet 6
+    * Entity Framework Core
 
 ## Links
 
